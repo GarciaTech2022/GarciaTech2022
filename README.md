@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GarciaTech2022
+- 👋 Hi, I’m Renato Garcia
 - 👀 I’m interested in programming, robots, insects, and science as a whole
-- 🌱 I’m currently learning Computer Science via Harvard Univesity's CS50 online course
-- 💞️ I’m looking to collaborate on ... not sure yet
+- 🌱 I’m currently studying Computer Science at the University of Las Vegas Nevada
+- 💞️ I’m looking to collaborate on anything! Im always willing to learn!
 - 📫 How to reach me: Email - garciatech2022@gmail.com
 
 <!---
